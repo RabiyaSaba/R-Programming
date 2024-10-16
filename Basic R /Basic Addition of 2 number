@@ -1,0 +1,7 @@
+// In order to add two number in R , assign the value to x and y and then sum as a variable to store the sum 
+// next print the value 
+ x<-10
+y<-20
+sum<-x+y
+print(sum)
+output :  30
