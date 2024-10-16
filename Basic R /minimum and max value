@@ -1,0 +1,5 @@
+nums<-c(10,20,40,50)
+max_value<-max(nums)
+print(max_value)
+min_value<-min(nums)
+print(min_value)
